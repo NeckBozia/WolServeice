@@ -1,4 +1,6 @@
+当然，下面是一个针对您的项目的中英双语 `README.md` 文件示例。假设您的项目是一个Spring Boot应用，用于发送Wake-on-LAN（WOL）包。
 
+```markdown
 # WOL服务 / Wake-on-LAN Service
 
 ## 中文 / Chinese
